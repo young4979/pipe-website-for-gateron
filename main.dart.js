@@ -89412,7 +89412,7 @@ else{s=A.bb(s)
 if((s==null?null:s.b)===1)return this.a40()}},
 a40(){var s,r,q,p,o=this,n=null,m=A.ao("\u6309\u4e0b\uff08\u89e6\u53d1\uff09\u952e\u7a0b",n,n,n,n,n,n,n),l=A.ao("\u5904\u4e8eRT\u6a21\u5f0f\u4e2d\uff0c\u6309\u4e0b\u8bbe\u7f6e\u7684\u8ddd\u79bb\u5373\u53ef\u89e6\u53d1\u6309\u952e",n,n,n,n,n,n,n),k=o.x,j=k==null,i=j?n:k.a,h=j?n:k.e
 if(h==null)h=0
-h=A.co(A.OX(i!==128,400,15,new A.amr(o),new A.ams(o),1,h),1)
+h=A.co(A.OX(i!==128,400,10,new A.amr(o),new A.ams(o),1,h),1)
 k=j?n:k.e
 j=t.p
 k=A.c4(A.a([h,A.bI(A.ao(B.c.a7((k==null?0:k)*0.01,2)+"mm",n,n,n,n,n,n,n),n,80)],j),B.B,B.t,B.C)
@@ -89423,7 +89423,7 @@ r=s==null
 q=r?n:s.a
 p=r?n:s.f
 if(p==null)p=0
-p=A.co(A.OX(q!==128,235,15,new A.amt(o),new A.amu(o),1,p),1)
+p=A.co(A.OX(q!==128,400,10,new A.amt(o),new A.amu(o),1,p),1)
 s=r?n:s.f
 return new A.bq(new A.a8(16,16,16,16),A.cO(A.a([m,l,k,h,i,A.c4(A.a([p,A.bI(A.ao(B.c.a7((s==null?0:s)*0.01,2)+"mm",n,n,n,n,n,n,n),n,80)],j),B.B,B.t,B.C)],j),B.bN,B.t,B.C),n)},
 a3X(){var s=null,r=A.ao("\u5b9a\u9ad8\u884c\u7a0b",s,s,s,s,s,s,s),q=A.ao("\u5904\u4e8e\u5b9a\u9ad8\u6a21\u5f0f\u4e2d\uff0c\u8bbe\u7f6e\u6309\u952e\u89e6\u53d1\u6216\u91cd\u7f6e\u6240\u9700\u7684\u7684\u56fa\u5b9a\u9ad8\u5ea6",s,s,s,s,s,s,s),p=this.x,o=p==null,n=o?s:p.a,m=o?s:p.c
