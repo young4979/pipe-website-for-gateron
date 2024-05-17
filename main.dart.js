@@ -90413,7 +90413,7 @@ s=A.aCz(B.al,B.eC,B.eG,B.eG)
 s=A.uf(A.axF(o,B.n,o,o,o,o,o,o,o,o,o,o,A.dL(o,o,B.j,o,o,o,o,o,p,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o,s,p,new A.t(4280756537),B.n,new A.nf(o,o,o,B.u,o,o,o,o,o,o,o,o,o,o),!0)
 r=A.a([B.IE,B.II,B.IB,new A.R5()],t.a9)
 q=A.a([B.W6,B.W3,B.W4,B.W5],t.ss)
-return new A.oY(A.aNG(B.n,A.bI(A.ayw("assets/images/logo_geteron.png"),60,200),new A.xR(o)),A.aNe(),"EZ",n,s,b,r,new A.abX(),q,o)},
+return new A.oY(A.aNG(B.n,A.bI(A.ayw("assets/images/logo_geteron.png"),60,200),new A.xR(o)),A.aNe(),"gateron test",n,s,b,r,new A.abX(),q,o)},
 $S:505}
 A.abX.prototype={
 $2(a,b){a.toString

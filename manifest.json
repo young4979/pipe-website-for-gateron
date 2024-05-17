@@ -1,6 +1,6 @@
 {
-    "name": "EZ",
-    "short_name": "EZ",
+    "name": "gateron test",
+    "short_name": "gateron test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
