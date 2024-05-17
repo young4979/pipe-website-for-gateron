@@ -26905,7 +26905,7 @@ this.d=b
 this.a=c},
 W8:function W8(a,b,c){var _=this
 _.f=0
-_.r="global"
+_.r="multiChoice"
 _.w=a
 _.x=null
 _.y=b
@@ -89362,7 +89362,7 @@ n=A.hL(A.Q(a).ax.b,2)
 s=A.dq(20)
 r=A.Q(a).ax.b
 q=t.N
-s=A.b5(o,A.axA(B.nM,A.B(B.c.b0(25.5),r.gk(r)>>>16&255,r.gk(r)>>>8&255,r.gk(r)&255),B.jL,p.y,B.nN,B.kq,new A.amz(p),A.am(["global","\u5168\u5c40\u8bbe\u7f6e","singleChoice","\u5355\u9009\u8bbe\u7f6e","multiChoice","\u591a\u9009\u8bbe\u7f6e"],q,q),B.eG,q,q),B.l,o,o,new A.bz(o,o,n,s,o,o,o,B.Q),40,o,o,o)
+s=A.b5(o,A.axA(B.nM,A.B(B.c.b0(25.5),r.gk(r)>>>16&255,r.gk(r)>>>8&255,r.gk(r)&255),B.jL,p.y,B.nN,B.kq,new A.amz(p),A.am(["singleChoice","\u5355\u9009\u8bbe\u7f6e","multiChoice","\u591a\u9009\u8bbe\u7f6e","global","\u5168\u5c40\u8bbe\u7f6e"],q,q),B.eG,q,q),B.l,o,o,new A.bz(o,o,n,s,o,o,o,B.Q),40,o,o,o)
 return A.lj(o,o,A.cO(A.a([m,A.co(A.cO(A.a([B.ja,s,B.FS,p.w.length!==0?A.c4(A.a([A.co(p.a3W(),2),A.co(p.a44(),3)],l),B.B,B.t,B.C):A.d_(A.ao("\u8bf7\u9009\u62e9\u4e00\u9897\u6309\u952e\u5f00\u59cb\u8bbe\u7f6e",o,o,o,o,o,o,o),o,o)],l),B.B,B.t,B.C),1)],l),B.B,B.t,B.C),o)},
 a7m(a){var s,r,q,p,o,n=A.a([],t.p)
 for(s=t.__,r=t.Gk,q=0;q<a;){p=this.c.ag(r)
